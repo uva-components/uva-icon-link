@@ -3,19 +3,7 @@
   "description": "Link with icon",
   "main": "uva-icon-link.html",
   "dependencies": {
-    "polymer": "Polymer/polymer#^1.4.0",
+    "uvalib-elements": "uvalib-components/uvalib-elements#master",
     "fontawesome-iconset": "uva-components/font-awesome-polymer-icons#master",
-    "paper-icon-button": "^1.1.2",
-    "iron-icon": "^1.0.9",
-    "paper-button": "^1.0.12"
-  },
-  "devDependencies": {
-    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
-    "iron-demo-helpers": "PolymerElements/iron-demo-helpers#^1.0.0",
-    "web-component-tester": "^4.0.0",
-    "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.0"
-  },
-  "resolutions": {
-    "polymer": "^1.5.0"
   }
 }
